@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polaroid Williamsburg"
+title: "Test 123"
 date: 2017-10-23
 description: 
 image: /assets/images/placeholder-9.jpg
